@@ -76,28 +76,6 @@ I'm a passionate IT student who believes in **learning by building**. I focus on
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duynam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duynam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building production-ready web applications
-- 📱 Exploring modern Android development with Jetpack Compose
-- 📖 Deepening knowledge in **System Design** and **Design Patterns**
-- 🌐 Exploring modern backend frameworks and architectures
-- 🤝 Open to collaboration on interesting projects
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
